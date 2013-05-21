@@ -22,7 +22,7 @@ Designed to provide customers a seamless transition into your HubExchange app, t
 
 2. If you want to use image content, review the Best Practices for Banner Ads PDF to understand design requirements and use the Banner Ad PSD files to create your banner graphic
 
-3. Download or clone the toolkit files from [ExactTarget's GitHub repository](https://github.com/ExactTarget)
+3. Download [the toolkit files](http://partner.hubexchange.com/downloads/hubexchange-ftux.zip)
 
 3. Edit the HTML pages and forms to display app name, company name, app description, and pricing for your HubExchange app
 
