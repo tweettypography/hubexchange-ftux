@@ -1,9 +1,9 @@
 #HubExchange First Time User Experience Toolkit
-=================
+==========
 Designed to provide customers a seamless transition into your HubExchange app, the HubExchange First Time User Experience (FTUX) Toolkit will help drive adoption of your HubExchange app through a simple, guided experience for new and existing customers.
 
 
-#Why use the HubExchange FTUX Toolkit?:
+#Why use the HubExchange FTUX Toolkit?
 ----------
 1.  Create customer confidence with a standardized first time user experience
 
@@ -16,7 +16,7 @@ Designed to provide customers a seamless transition into your HubExchange app, t
 5.  Provide customers with a standardized user experience to fit your business model
 
 
-#Getting Started with the HubExchange FTUX Toolkit:
+#Getting Started with the HubExchange FTUX Toolkit
 ----------
 1. Use the [HubExchange FTUX page selection tool](http://partner.hubexchange.com) to determine the pages you need to support your HubExchange app business model
 
